@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Write a short reflection on today's class",
+    "type": "note",
+    "action": "Start",
+    "done": false,
+    "priority": "High",
+    "dueDate": "2026-07-21",
+    "description": "Summarize the most useful lesson from today."
+  },
+  {
+    "id": 2,
+    "title": "Review the onboarding checklist",
+    "type": "check",
+    "action": "Start",
+    "done": false,
+    "priority": "Medium",
+    "dueDate": "2026-07-23",
+    "description": "Confirm the launch checklist for your next course."
+  },
+  {
+    "id": 3,
+    "title": "Submit your project feedback form",
+    "type": "task",
+    "action": "Start",
+    "done": false,
+    "priority": "Low",
+    "dueDate": "2026-07-24",
+    "description": "Share your feedback before the weekly review."
+  }
+]

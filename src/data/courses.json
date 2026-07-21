@@ -1,0 +1,132 @@
+[
+  {
+    "id": "ui-design-mastery",
+    "title": "Mastering High-Fidelity Prototyping",
+    "category": "UI/UX Design",
+    "instructor": {
+      "name": "Lanre Felix",
+      "avatar": "/avatars/adrian.svg"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=900&q=80",
+    "progress": 75,
+    "lessonsCompleted": 12,
+    "lessonsTotal": 16,
+    "status": "in-progress",
+    "resources": [
+      {
+        "title": "Free UI design tutorial",
+        "type": "YouTube",
+        "url": "https://www.youtube.com/results?search_query=free+ui+design+tutorial"
+      },
+      {
+        "title": "Coursera UI design courses",
+        "type": "Coursera",
+        "url": "https://www.coursera.org/search?query=ui%20design"
+      }
+    ]
+  },
+  {
+    "id": "web-dev-foundations",
+    "title": "React and Tailwind for Fast UIs",
+    "category": "Development",
+    "instructor": {
+      "name": "Akinboye Festus",
+      "avatar": "/avatars/mina.svg"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=900&q=80",
+    "progress": 63,
+    "lessonsCompleted": 10,
+    "lessonsTotal": 16,
+    "status": "in-progress",
+    "resources": [
+      {
+        "title": "React beginner playlist",
+        "type": "YouTube",
+        "url": "https://www.youtube.com/results?search_query=react+tutorial"
+      },
+      {
+        "title": "React specialization",
+        "type": "Coursera",
+        "url": "https://www.coursera.org/search?query=react"
+      }
+    ]
+  },
+  {
+    "id": "growth-strategy",
+    "title": "Growth Strategy for Modern Teams",
+    "category": "Business",
+    "instructor": {
+      "name": "Adeosun Mutiu",
+      "avatar": "/avatars/tina.svg"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=80",
+    "progress": 100,
+    "lessonsCompleted": 14,
+    "lessonsTotal": 14,
+    "status": "completed",
+    "resources": [
+      {
+        "title": "Business strategy videos",
+        "type": "YouTube",
+        "url": "https://www.youtube.com/results?search_query=business+strategy"
+      },
+      {
+        "title": "Coursera business courses",
+        "type": "Coursera",
+        "url": "https://www.coursera.org/search?query=business+strategy"
+      }
+    ]
+  },
+  {
+    "id": "data-storytelling",
+    "title": "Data Storytelling for Product Leaders",
+    "category": "Data Science",
+    "instructor": {
+      "name": "Abeka Goodness",
+      "avatar": "/avatars/soleil.svg"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=900&q=80",
+    "progress": 41,
+    "lessonsCompleted": 6,
+    "lessonsTotal": 14,
+    "status": "in-progress",
+    "resources": [
+      {
+        "title": "Data storytelling basics",
+        "type": "YouTube",
+        "url": "https://www.youtube.com/results?search_query=data+storytelling"
+      },
+      {
+        "title": "Data analysis specialization",
+        "type": "Coursera",
+        "url": "https://www.coursera.org/search?query=data%20analysis"
+      }
+    ]
+  },
+  {
+    "id": "security-basics",
+    "title": "Cyber Security Basics for Teams",
+    "category": "Cyber-security",
+    "instructor": {
+      "name": "Olaleye Lateef",
+      "avatar": "/avatars/owen.svg"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=900&q=80",
+    "progress": 88,
+    "lessonsCompleted": 11,
+    "lessonsTotal": 12,
+    "status": "in-progress",
+    "resources": [
+      {
+        "title": "Cybersecurity fundamentals",
+        "type": "YouTube",
+        "url": "https://www.youtube.com/results?search_query=cybersecurity+fundamentals"
+      },
+      {
+        "title": "Cybersecurity courses",
+        "type": "Coursera",
+        "url": "https://www.coursera.org/search?query=cybersecurity"
+      }
+    ]
+  }
+]

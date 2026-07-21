@@ -1,0 +1,4 @@
+{
+  "labels": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+  "values": [0, 45, 60, 0, 0, 42, 68]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "advanced-ui-principles",
+    "courseTitle": "UI Design Mastery",
+    "lessonTitle": "Advanced UI Principles",
+    "breadcrumb": ["Courses", "UI Design Mastery", "Lesson 04"],
+    "description": "Learn how spacing, motion, and hierarchy shape premium interfaces without overwhelming the learner.",
+    "duration": "12 min",
+    "level": "Intermediate",
+    "project": "Design system audit",
+    "resources": [
+      {
+        "title": "UI Design Principles by Google",
+        "type": "YouTube",
+        "url": "https://www.youtube.com/results?search_query=ui+design+principles"
+      },
+      {
+        "title": "UI / UX Design Specialization",
+        "type": "Coursera",
+        "url": "https://www.coursera.org/search?query=ui%20ux%20design"
+      },
+      {
+        "title": "Design Systems Crash Course",
+        "type": "YouTube",
+        "url": "https://www.youtube.com/results?search_query=design+systems+course"
+      }
+    ],
+    "mentor": {
+      "name": "Mina Wong",
+      "role": "Lead Mentor",
+      "avatar": "/avatars/mina.svg"
+    },
+    "modules": [
+      {
+        "title": "MODULE 01: FOUNDATIONS",
+        "lessons": [
+          { "title": "Visual hierarchy essentials", "duration": "08 min", "state": "complete" },
+          { "title": "Micro-interactions that guide attention", "duration": "12 min", "state": "playing" },
+          { "title": "Consistency and component spacing", "duration": "10 min", "state": "locked" }
+        ]
+      },
+      {
+        "title": "MODULE 02: ADVANCED CONCEPTS",
+        "lessons": [
+          { "title": "Intentional motion systems", "duration": "09 min", "state": "locked" },
+          { "title": "Accessibility in real products", "duration": "11 min", "state": "locked" }
+        ]
+      }
+    ]
+  }
+]
